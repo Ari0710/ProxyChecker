@@ -55,11 +55,6 @@ If you need to generate an `.exe` from the Python script, follow these steps:
 
 ---
 
-## Screenshots
-*(Add screenshots of the GUI here)*
-
----
-
 ## Example Input
 ```text
 44.218.183.55:80
