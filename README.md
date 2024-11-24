@@ -28,7 +28,7 @@ If you're running the script version, you'll need:
 ### For the Python Script
 1. Run the script:
    ```bash
-   python proxy_checker.py
+   python proxycheck.py
    ```
 2. Paste proxies into the **Pasted Proxies** section.
 3. Click the **Check Proxies** button.
